@@ -79,7 +79,7 @@ The project prioritizes official and publicly available data from Irish institut
 **In progress**
 
 - [x] Demographic Population Analysis — CSO and Eurostat
-- [ ] Home Care Operations
+- [x] Home Care Operations
 - [ ] Nursing Home Intelligence
 - [ ] Unpaid Family Carers
 - [ ] Caregiver Health & Wellbeing
